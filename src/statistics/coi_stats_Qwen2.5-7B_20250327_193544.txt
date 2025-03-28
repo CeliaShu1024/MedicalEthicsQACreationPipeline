@@ -1,0 +1,62 @@
+Content of Interest Statistics Report
+Model: Qwen2.5-7B
+Generated: 2025-03-27 19:35:44
+================================================================================
+
+OVERALL SUMMARY:
+--------------------------------------------------------------------------------
+Total books analyzed: 3
+Total COI items found: 243
+Original total items: 276
+Average retention rate: 87.63%
+Total tokens: 0
+
+Token Consumption Estimates:
+Estimated input tokens for all COI items: 0
+Estimated total tokens for exam generation with all items:
+  Prompt tokens: 0
+  Output tokens: 36,450
+  Total estimate: 36,450
+
+================================================================================
+INDIVIDUAL BOOK STATISTICS:
+================================================================================
+
+Book: 079
+--------------------------------------------------------------------------------
+COI items: 54
+Total items: 61
+Retention rate: 88.52459016393442%
+Average heading length: 25.5 chars
+Average text length: 9126.2 chars
+Text length range: 0 - 61935 chars
+
+Chapter distribution:
+  Chapter 1: 1 items
+  Chapter 2: 2 items
+  Chapter 3: 1 items
+  Chapter 4: 1 items
+  Chapter 5: 2 items
+
+Book: 141
+--------------------------------------------------------------------------------
+COI items: 114
+Total items: 124
+Retention rate: 91.93548387096774%
+Average heading length: 21.0 chars
+Average text length: 1968.9 chars
+Text length range: 0 - 15302 chars
+
+Book: 166
+--------------------------------------------------------------------------------
+COI items: 75
+Total items: 91
+Retention rate: 82.41758241758241%
+Average heading length: 23.5 chars
+Average text length: 6055.1 chars
+Text length range: 0 - 69638 chars
+
+Chapter distribution:
+  Chapter 3: 1 items
+  Chapter 5: 2 items
+

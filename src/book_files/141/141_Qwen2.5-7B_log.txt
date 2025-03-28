@@ -1,0 +1,284 @@
+Processing book: 141
+Model: Qwen2.5-7B
+Start time: 2025-03-27 18:51:19
+Total items: 124
+--------------------------------------------------------------------------------
+
+Item 1/124: HEALTH AND HUMANITARIAN CONCERNS
+  ✓ KEEP: HEALTH AND HUMANITARIAN CONCERNS
+
+  ✓ KEEP: Health and Humanitarian Concerns
+
+  ✗ FILTER: FLORIDA GULF COAST UNIVERSITY UBRARY
+
+  ✓ KEEP: TABLE OF CONTENTS
+
+Item 5/124: THE FUNDAMENTAL PRINCIPLES OF THE INTERNATIONAL RED CROSS AND RED CRESCENT MOVEMENT
+  ✗ FILTER: THE FUNDAMENTAL PRINCIPLES OF THE INTERNATIONAL RED CROSS AND RED CRESCENT MOVEMENT
+
+  ✗ FILTER: FOREWORD
+
+  ✓ KEEP: THE COURAGE AND DISCIPLINE OF CONVICTION:
+
+  ✓ KEEP: ACKNOWLEDGEMENTS
+
+  ✓ KEEP: EXECUTIVE SUMMARY
+
+Item 10/124: 1. INTRODUCTION
+  ✓ KEEP: 1. INTRODUCTION
+
+  ✓ KEEP: A. ABOUT THE WORK
+
+  ✓ KEEP: II.RC/RC HUMANITARIAN MANDATE
+
+  ✓ KEEP: A.INTRODUCTORY CONSIDERATIONS
+
+  ✓ KEEP: ICRC MEDICAL SERVICES:
+
+Item 15/124: B. UNIQUE CHARACTER OF THE RED CROSS/RED CRESCENT
+  ✓ KEEP: B. UNIQUE CHARACTER OF THE RED CROSS/RED CRESCENT
+
+  ✓ KEEP: 1.To save lives, prevent and alleviate the suffering of all victims/patients with all available mean
+
+  ✓ KEEP: 2. To prevent disease and promote health among populations at a higher risk, particularly among thos
+
+  ✓ KEEP: 3. To show respect for the dignity of human beings when working with victims/patients
+
+  ✓ KEEP: 4. To behave humanely when dealing with the victim/patient
+
+Item 20/124: CONCLUSION
+  ✓ KEEP: CONCLUSION
+
+  ✓ KEEP: C. ETHICAL CODES AND RC/RC HEALTH PROFESSIONALS
+
+  ✓ KEEP: III. HUMANITARIAN CONCERNS IN ACTION -AWARENESS EXERCISES -
+
+  ✓ KEEP: A.NATURAL DISASTERS AND BREACHES OF PRINCIPLES AND ETHICS
+
+  ✓ KEEP: QUESTION
+
+Item 25/124: QUESTION 2
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: QUESTION 3
+
+  ✓ KEEP: QUESTION 4
+
+  ✓ KEEP: B. FORCED FEEDING
+
+  ✓ KEEP: QUESTION1
+
+Item 30/124: QUESTION 2
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: QUESTION 5
+
+  ✓ KEEP: QUESTION 6
+
+  ✓ KEEP: C. TORTURE OR ILL-TREATMENT
+
+  ✗ FILTER: EXAMPLE 1:
+
+Item 35/124: EXAMPLE 2:
+  ✓ KEEP: EXAMPLE 2:
+
+  ✓ KEEP: EXAMPLE 3:
+
+  ✓ KEEP: EXAMPLE 4:
+
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: QUESTION 3
+
+Item 40/124: D. PARTICIPATION IN PUNISHMENT
+  ✓ KEEP: D. PARTICIPATION IN PUNISHMENT
+
+  ✓ KEEP: QUESTION 1
+
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: E.ASSISTANCE TO THE ABUSED AND NEGLECTED
+
+  ✓ KEEP: QUESTION 1
+
+Item 45/124: QUESTION 2
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: QUESTION 3
+
+  ✗ FILTER: F. BIOMEDICAL RESEARCH
+
+  ✓ KEEP: QUESTION1
+
+  ✓ KEEP: QUESTION 2
+
+Item 50/124: G. SELLING OF ORGANS
+  ✓ KEEP: G. SELLING OF ORGANS
+
+  ✓ KEEP: QUESTION 1
+
+  ✓ KEEP: QUESTION 2
+
+  ✓ KEEP: H.HIV AND AIDS DISCRIMINATION
+
+  ✓ KEEP: The Role of the Red Cross/Red Crescent in the Aids Pandemic
+
+Item 55/124: EXERCISE:
+  ✓ KEEP: EXERCISE:
+
+  ✗ FILTER: QUESTION 1
+
+  ✓ KEEP: QUESTION2
+
+  ✓ KEEP: QUESTION 3
+
+  ✗ FILTER: 1. BLOOD DONATION
+
+Item 60/124: QUESTION 1
+  ✓ KEEP: QUESTION 1
+
+  ✗ FILTER: QUESTION 2
+
+  ✓ KEEP: J. CONSENT FOR SURGERY
+
+  ✓ KEEP: QUESTION1
+
+  ✓ KEEP: QUESTION 2
+
+Item 65/124: K. LIST OF REFERENCES FOR FURTHER READING
+  ✓ KEEP: K. LIST OF REFERENCES FOR FURTHER READING
+
+  ✓ KEEP: IV. CONCLUSION
+
+  ✓ KEEP: V. ANNEXES
+
+  ✓ KEEP: A.ABBREVIATIONS AND GLOSSARY
+
+  ✗ FILTER: B. THE FUNDAMENTAL PRINCIPLES
+
+Item 70/124: C. PROFESSIONAL ETHICS
+  ✓ KEEP: C. PROFESSIONAL ETHICS
+
+  ✓ KEEP: 3. CODE FOR NURSES4
+
+  ✓ KEEP: D. HUMAN RIGHTS
+
+  ✓ KEEP: Article 1
+
+  ✓ KEEP: Article 2
+
+Item 75/124: Article 3
+  ✓ KEEP: Article 3
+
+  ✓ KEEP: Article 4
+
+  ✓ KEEP: Article 5
+
+  ✓ KEEP: Article 6
+
+  ✓ KEEP: Article7
+
+Item 80/124: Article 8
+  ✓ KEEP: Article 8
+
+  ✓ KEEP: Article 9
+
+  ✓ KEEP: Article 10
+
+  ✓ KEEP: Article 11
+
+  ✓ KEEP: Article 12
+
+Item 85/124: Article 13
+  ✓ KEEP: Article 13
+
+  ✓ KEEP: Article 14
+
+  ✓ KEEP: Article 15
+
+  ✓ KEEP: Article 16
+
+  ✓ KEEP: Article 17
+
+Item 90/124: Article 18
+  ✓ KEEP: Article 18
+
+  ✓ KEEP: Article 19
+
+  ✓ KEEP: Article 20
+
+  ✓ KEEP: Article 21
+
+  ✓ KEEP: Article 22
+
+Item 95/124: Article 23
+  ✓ KEEP: Article 23
+
+  ✓ KEEP: Article 24
+
+  ✓ KEEP: Article 25
+
+  ✗ FILTER: Article 26
+
+  ✓ KEEP: Article 27
+
+Item 100/124: Article 28
+  ✓ KEEP: Article 28
+
+  ✓ KEEP: Article29
+
+  ✓ KEEP: Article 30
+
+  ✓ KEEP: E.TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT ORPUNISHMENT
+
+  ✓ KEEP: 1. DECLARATION OF TOKYO\*
+
+Item 105/124: PREAMBLE
+  ✓ KEEP: PREAMBLE
+
+  ✓ KEEP: DECLARATION
+
+  ✓ KEEP: Principle 1
+
+  ✓ KEEP: Principle 2
+
+  ✓ KEEP: Principle 3
+
+Item 110/124: Principle 4
+  ✓ KEEP: Principle 4
+
+  ✓ KEEP: Principle5
+
+  ✓ KEEP: Principle 6
+
+  ✓ KEEP: 4. DECLARATION OF HAWA113
+
+  ✓ KEEP: F. NEGLECT AND ABUSE
+
+Item 115/124: 1. General Principles
+  ✓ KEEP: 1. General Principles
+
+  ✓ KEEP: II.Recommendations
+
+  ✓ KEEP: Article 3:
+
+  ✓ KEEP: G. BIOMEDICAL RESEARCH
+
+  ✓ KEEP: Introduction
+
+Item 120/124: 1. Basic Principles
+  ✓ KEEP: 1. Basic Principles
+
+  ✓ KEEP: IⅢ. Non-therapeutic Biomedical Research Involving Human Subjects (Non-clinical biomedical research)
+
+  ✓ KEEP: H.HUMAN ORGAN TRANSPLANTATION
+
+  ✓ KEEP: I.VOLUNTARY AND NON-REMUNERATED BLOOD DONATION
+
+Item 124/124: J.AIDS
+  ✓ KEEP: J.AIDS
+
+--------------------------------------------------------------------------------
+Summary:
+Items kept: 114/124 (91.9%)
+End time: 2025-03-27 18:54:05

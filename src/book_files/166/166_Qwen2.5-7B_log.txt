@@ -1,0 +1,212 @@
+Processing book: 166
+Model: Qwen2.5-7B
+Start time: 2025-03-27 18:08:01
+Total items: 91
+--------------------------------------------------------------------------------
+
+Item 1/91: martyn hammersley and anna traianou
+  ✗ FILTER: martyn hammersley and anna traianou
+
+  ✓ KEEP: ETHICS IN QUALITATIVE RESEARCH
+
+  ✓ KEEP: ETHICS IN QUALITATIVE RESEARCH
+
+  ✓ KEEP: MARTYN HAMMERSLEY AND ANNA TRAIANOU
+
+Item 5/91: 10-04 Samsung Hub
+  ✓ KEEP: 10-04 Samsung Hub
+
+  ✓ KEEP: British Library Cataloguing in Publication data
+
+  ✓ KEEP: CONTENTS
+
+  ✓ KEEP: THE RISE AND RISE OF RESEARCH ETHICS
+
+  ✓ KEEP: Professional codes and ethics committees
+
+Item 10/91: Qualitative research and ethics
+  ✓ KEEP: Qualitative research and ethics
+
+  ✓ KEEP: SPRINGDALE
+
+  ✓ KEEP: COVERT RESEARCH ON ALCOHOLICS ANONYMOUS
+
+  ✓ KEEP: TEAROOM TRADE
+
+  ✓ KEEP: RESEARCHING OLD-TIME PENTECOSTAL RELIGIOUS GROUPS
+
+Item 15/91: IRE IN IRELAND
+  ✓ KEEP: IRE IN IRELAND
+
+  ✓ KEEP: THE EL DORADO SCANDAL
+
+  ✓ KEEP: SCANDALOUS STORIES AND DANGEROUS LIAISONS
+
+  ✓ KEEP: AN OUTLINE OF THE CHAPTERS
+
+  ✓ KEEP: 1
+
+Item 20/91: THE MEANING OF ‘ETHICS’ AND ‘ETHICAL’
+  ✓ KEEP: THE MEANING OF ‘ETHICS’ AND ‘ETHICAL’
+
+  ✓ KEEP: DIFFERENT WAYS OF DETERMINING WHAT IS GOOD OR RIGHT
+
+  ✓ KEEP: Deontology
+
+  ✓ KEEP: Consequentialism
+
+  ✓ KEEP: Situationism
+
+Item 25/91: Relational ethics
+  ✓ KEEP: Relational ethics
+
+  ✓ KEEP: A more radical turn?
+
+  ✗ FILTER: Chapter 1 - CONCLUSION
+
+  ✓ KEEP: 2
+
+  ✓ KEEP: THE RESEARCH ETHOS
+
+Item 30/91: THE TASK OF RESEARCH
+  ✓ KEEP: THE TASK OF RESEARCH
+
+  ✗ FILTER: CHALLENGES TO THE TRADITIONAL VIEW
+
+  ✓ KEEP: Scepticism
+
+  ✓ KEEP: Knowledge as of only instrumental value
+
+  ✓ KEEP: THE DEMANDS OF THE RESEARCH TASK
+
+Item 35/91: VIRTUES INTRINSIC TO SOCIAL RESEARCH
+  ✓ KEEP: VIRTUES INTRINSIC TO SOCIAL RESEARCH
+
+  ✗ FILTER: Dedication
+
+  ✓ KEEP: Objectivity
+
+  ✓ KEEP: Independence
+
+  ✓ KEEP: RELEVANT KNOWLEDGE
+
+Item 40/91: EXTRINSIC VALUES
+  ✓ KEEP: EXTRINSIC VALUES
+
+  ✗ FILTER: Chapter 2 - CONCLUSION
+
+  ✓ KEEP: 3
+
+  ✓ KEEP: HARM AND BENEFIT
+
+  ✗ FILTER: WHAT IS HARM?
+
+Item 45/91: ASSESSING DEGREES OF HARM
+  ✓ KEEP: ASSESSING DEGREES OF HARM
+
+  ✓ KEEP: HARM IN QUALITATIVE RESEARCH
+
+  ✗ FILTER: THE USE OF VISUAL RESEARCH METHODS WITH CHILDREN
+
+  ✓ KEEP: THE ISSUE OF RESPONSIBILITY
+
+  ✓ KEEP: HARM TO WHOM?
+
+Item 50/91: Chapter 3 - CONCLUSION
+  ✓ KEEP: Chapter 3 - CONCLUSION
+
+  ✓ KEEP: 4
+
+  ✓ KEEP: AUTONOMY AND INFORMED CONSENT
+
+  ✓ KEEP: INDIVIDUAL FREEDOM AS A LIBERAL IDEAL
+
+  ✗ FILTER: THE FALLACY OF FREEDOM-IN-GENERAL
+
+Item 55/91: WHAT DOES RESPECTING AUTONOMY MEAN IN THE CONTEXT OF SOCIAL RESEARCH?
+  ✓ KEEP: WHAT DOES RESPECTING AUTONOMY MEAN IN THE CONTEXT OF SOCIAL RESEARCH?
+
+  ✓ KEEP: CONSENT
+
+  ✓ KEEP: Consent from whom?
+
+  ✓ KEEP: How is consent to be obtained?
+
+  ✓ KEEP: Consent for what?
+
+Item 60/91: Free consent?
+  ✓ KEEP: Free consent?
+
+  ✓ KEEP: FULLY INFORMED OR MISINFORMED?
+
+  ✗ FILTER: Chapter 4 - CONCLUSION
+
+  ✓ KEEP: 5
+
+  ✗ FILTER: PRIVACY, CONFIDENTIALITY AND ANONYMITY
+
+Item 65/91: PUBLICITY IN MODERN WESTERN SOCIETIES
+  ✗ FILTER: PUBLICITY IN MODERN WESTERN SOCIETIES
+
+  ✓ KEEP: DEMANDS FOR PRIVACY
+
+  ✓ KEEP: PRIVACY AND SECRECY IN QUALITATIVE RESEARCH
+
+  ✓ KEEP: PRIVACY JUDGMENTS IN PRACTICE
+
+  ✓ KEEP: ‘Sensitive’ topics
+
+Item 70/91: Research design and data collection
+  ✓ KEEP: Research design and data collection
+
+  ✓ KEEP: Observation
+
+  ✓ KEEP: Eliciting accounts about private matters
+
+  ✓ KEEP: INFORMED CONSENT
+
+  ✗ FILTER: THE CASE OF ONLINE DATA
+
+Item 75/91: Content
+  ✓ KEEP: Content
+
+  ✓ KEEP: Audience and accessibility
+
+  ✗ FILTER: Access strategies
+
+  ✗ FILTER: CONFIDENTIALITY AND ANONYMITY
+
+  ✓ KEEP: STRATEGIES FOR MAINTAINING CONFIDENTIALITY
+
+Item 80/91: ANONYMISATION
+  ✓ KEEP: ANONYMISATION
+
+  ✓ KEEP: Chapter 5 - CONCLUSION
+
+  ✓ KEEP: CONCLUSION: CHALLENGING MORALISM
+
+  ✓ KEEP: A BRIEF SUMMARY
+
+  ✓ KEEP: MORALISM
+
+Item 85/91: Redefining the goal of qualitative research
+  ✗ FILTER: Redefining the goal of qualitative research
+
+  ✓ KEEP: Realising values within the research process
+
+  ✓ KEEP: THE PROBLEM OF BEING ‘TOO ETHICAL’
+
+  ✓ KEEP: THE PROBLEM OF ETHICAL REGULATION
+
+  ✗ FILTER: Chapter 5 - CONCLUSION
+
+Item 90/91: Chapter 5 - REFERENCES
+  ✓ KEEP: Chapter 5 - REFERENCES
+
+Item 91/91: INDEX
+  ✓ KEEP: INDEX
+
+--------------------------------------------------------------------------------
+Summary:
+Items kept: 75/91 (82.4%)
+End time: 2025-03-27 18:11:26

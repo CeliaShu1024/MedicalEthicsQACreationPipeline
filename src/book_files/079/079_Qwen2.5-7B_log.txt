@@ -1,0 +1,146 @@
+Processing book: 079
+Model: Qwen2.5-7B
+Start time: 2025-03-27 18:11:26
+Total items: 61
+--------------------------------------------------------------------------------
+
+Item 1/61: THE BIOETHICS OF ENHANCEMENT
+  ✓ KEEP: THE BIOETHICS OF ENHANCEMENT
+
+  ✓ KEEP: The Bioethics of Enhancement
+
+  ✗ FILTER: The Bioethics of Enhancement
+
+  ✓ KEEP: Library of Congress Cataloging-in-Publication Data
+
+Item 5/61: Contents
+  ✓ KEEP: Contents
+
+  ✓ KEEP: Acknowledgments
+
+  ✓ KEEP: Introduction Enhancement, Disability, and Biopolitics
+
+  ✓ KEEP: notes
+
+  ✓ KEEP: Chapter 1
+
+Item 10/61: Dragon Slayers Exploring Transhumanism
+  ✓ KEEP: Dragon Slayers Exploring Transhumanism
+
+  ✓ KEEP: Contemporary Debate
+
+  ✓ KEEP: Transhumanism and its Goals
+
+  ✓ KEEP: Transhumanist Strategies and Rhetoric
+
+  ✗ FILTER: Chapter Chapter 1 - Conclusion
+
+Item 15/61: notes
+  ✓ KEEP: notes
+
+  ✓ KEEP: Chapter 2
+
+  ✓ KEEP: Rethinking Disability Dodging Definitions, Muddying Models
+
+  ✓ KEEP: Foucault and the Construction of the Abnormal Subject
+
+  ✓ KEEP: Thinking Disability
+
+Item 20/61: Models of Disability
+  ✓ KEEP: Models of Disability
+
+  ✓ KEEP: The Moral Model and the Charity Model
+
+  ✓ KEEP: The Medical Model
+
+  ✓ KEEP: The Social Model
+
+  ✓ KEEP: The Minority Model
+
+Item 25/61: Rethinking Disability: The Cultural Model
+  ✓ KEEP: Rethinking Disability: The Cultural Model
+
+  ✓ KEEP: Social Constructions of Disability
+
+  ✓ KEEP: Stigma and Identity
+
+  ✓ KEEP: Chapter Chapter 2 - Conclusion
+
+  ✓ KEEP: notes
+
+Item 30/61: Chapter 3
+  ✓ KEEP: Chapter 3
+
+  ✓ KEEP: Rethinking Enhancement A Genealogical Approach
+
+  ✓ KEEP: The Life Extension Institute
+
+  ✓ KEEP: Physical Culture, Discipline, and Healthy Choices
+
+  ✓ KEEP: The Birth of Endocrinology
+
+Item 35/61: PostWar Rehabilitation of Eugenic Ideals
+  ✓ KEEP: PostWar Rehabilitation of Eugenic Ideals
+
+  ✓ KEEP: Genetic Visions
+
+  ✓ KEEP: Genetic Determinism
+
+  ✓ KEEP: Bioethics and Genetic Determinism
+
+  ✗ FILTER: Chapter Chapter 3 - Conclusion
+
+Item 40/61: notes
+  ✗ FILTER: notes
+
+  ✓ KEEP: Chapter 4
+
+  ✓ KEEP: Choosing, for Choice’s Sake A Case Study
+
+  ✓ KEEP: Procreative Beneficence
+
+  ✓ KEEP: The Disability Critique of Negative Genetic Selection
+
+Item 45/61: Reproductive Liberty and Justice
+  ✓ KEEP: Reproductive Liberty and Justice
+
+  ✓ KEEP: Transhumanism and Disability Rights
+
+  ✓ KEEP: Independence and Vulnerability
+
+  ✓ KEEP: Cognitive Enhancement
+
+  ✗ FILTER: Chapter Chapter 4 - Conclusion
+
+Item 50/61: notes
+  ✓ KEEP: notes
+
+  ✓ KEEP: Chapter 5
+
+  ✗ FILTER: Disability as/at Risk The Biopolitics of Disability
+
+  ✓ KEEP: Genetic Counseling and Disability as Risk
+
+  ✓ KEEP: Disability at Risk
+
+Item 55/61: Rationing
+  ✓ KEEP: Rationing
+
+  ✗ FILTER: Chapter Chapter 5 - Conclusion
+
+  ✓ KEEP: notes
+
+  ✓ KEEP: Conclusion Rethinking the Future
+
+  ✓ KEEP: Chapter Chapter 5 - Bibliography
+
+Item 60/61: Index
+  ✓ KEEP: Index
+
+Item 61/61: About the Author
+  ✓ KEEP: About the Author
+
+--------------------------------------------------------------------------------
+Summary:
+Items kept: 54/61 (88.5%)
+End time: 2025-03-27 18:16:12

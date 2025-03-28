@@ -1,0 +1,8 @@
+{
+  "bookid": "141",
+  "timestamp": "20250327_194812",
+  "model": "qwen2.5-72b-instruct",
+  "total_questions": 114,
+  "items_sampled": 0,
+  "questions_per_item": 1
+}
